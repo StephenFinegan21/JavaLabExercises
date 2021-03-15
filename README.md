@@ -2,6 +2,16 @@
 Lab exercises I completed as part of my Software Development module in NCI - 2021
 
 
+---------   Array-Exercises  --------
+- Using Java arrays to store input of 5 numbers from user
+- Created instantiable classes to calculate the min, max and average of the array
+- Values are given back to the user
+
+* Instantiable classes, user input, Arrays
+
+-------------------------------------
+
+
 ---------   Egg Calculator  --------
 - Java programme which takes an input of how many eggs a user has collected
 - Outputs the amount of cartons they will need to hold the eggs
